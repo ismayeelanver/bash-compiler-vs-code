@@ -1,1 +1,4 @@
-# bash-compiler-vs-code-
+# requirements
+ -  vs code
+ - bash
+ - bash experience
